@@ -1,0 +1,11 @@
+# Virtual Environments
+venv/
+__pycache__/
+
+# Data files (if too large for GitHub's 100MB limit)
+*.csv
+*.json
+*.sql
+
+# Credentials/Environment variables
+.env
